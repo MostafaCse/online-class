@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.course-info{
+    width: 70%;
+}
+.card-info{
+    width: 30%;
+}
